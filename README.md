@@ -35,8 +35,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=desaimayank1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=desaimayank1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=desaimayank1&limit=5&theme=dark&combine_all_yearly_contributions=true&no_cache=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=desaimayank1&icon=2&color=9)](https://visitcount.itsvg.in)
