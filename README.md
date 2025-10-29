@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![X](https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white)](https://x.com/Mayankd89660505) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-shirgaonkar-ba0859270/)
+[![X](https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white)](https://x.com/Mayankd89660505) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankdesai478/)
 
 
 # 💻 Tech Stack:
